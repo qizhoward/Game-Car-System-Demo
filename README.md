@@ -2,6 +2,29 @@
 
 # About 关于
 
+about health game   </br>
+健康游戏忠告          </br>
+1.Boycott bad games    ex.18 prohibit
+1.抵制不良游戏
+2.Schedule time
+2.合理安排时间
+3.
+3.
+4.
+4.
+5.
+5.
+6.
+6.
+7.
+7.
+8.
+8.
+9.
+9.
+10.
+10.
+
 Computer Game Car System Demo Just like as Forza Horizon 4 Game... </br>
 自己做的电脑驾驶游戏，测试，自己做的像极限竞速4的游戏,源码和下载包。 </br>
 地图包是自己家乡的，未来可能加入其他城市地图包</br>
