@@ -16,8 +16,8 @@ Computer Game Car System Demo Just like as Forza Horizon 4 Game... </br>
 注意：目前有两个文件太大了，没上传成功，可能以后添加URL链接提供下载  </br>
 两个文件百度云盘下载链接:                                                           </br>
 第一个文件链接：https://pan.baidu.com/s/1ZFHhGWbv0ys-4nTlJbBA9A 密码：nfre          </br>
-第二个文件链接：https://pan.baidu.com/s/1SVF9WyoooSITfKvWOC1coQ 密码：4p1a          </br>                                                                                                                                  
-下载成功后放入bundled文件夹内即可...目前只有64位的包...</br>
+第二个文件链接：https://pan.baidu.com/s/1SVF9WyoooSITfKvWOC1coQ 密码：4p1a          </br>                                                                                            下载成功后放入bundled文件夹内即可...</br>
+目前只有64位的包...</br>
 
 # Future 未来
 
