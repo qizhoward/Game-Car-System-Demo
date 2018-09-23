@@ -8,7 +8,8 @@ Computer Game Car System Demo Just like as Forza Horizon 4 Game... </br>
 
 ![image](https://github.com/qizhoward/GameCarSystemDemo/blob/master/make.PNG)
 
-完整包百度云盘下载链接：正在上传中... </br>
+完整包百度云盘下载链接：                                           </br> 
+链接：https://pan.baidu.com/s/1XxE577nArZ0-8KT9fqg41g 密码：3xnx </br>
 
 # Other 其他事项
 
