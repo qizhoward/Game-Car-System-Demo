@@ -6,7 +6,7 @@ Computer Game Car System Demo Just like as Forza Horizon 4 Game... </br>
 自己做的电脑驾驶游戏，测试，自己做的像极限竞速4的游戏,源码和下载包。 </br>
 
 
-![image](https://github.com/qizhoward/GameCarSystemDemo/make.png)
+![image](https://github.com/qizhoward/GameCarSystemDemo/blob/master/make.PNG)
 
 
 
