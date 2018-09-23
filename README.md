@@ -5,9 +5,6 @@
 Computer Game Car System Demo Just like as Forza Horizon 4 Game... </br>
 自己做的电脑驾驶游戏，测试，自己做的像极限竞速4的游戏,源码和下载包。 </br>
 
-希望加入二维地图导航系统，手刹，脚刹，方向盘，视图控制系统</br>
-
-
 # License 证书 密钥 
 
 future key ...     </br>
@@ -15,6 +12,13 @@ future key ...     </br>
 
 
 # Other 其他事项
+
+
+# Future 未来
+
+希望加入二维地图导航系统，手刹，脚刹，方向盘，视图控制系统</br>
+希望加入特斯拉车型tesla model </br>
+
 
 改天上传 </br>
 
