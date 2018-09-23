@@ -22,8 +22,10 @@ Computer Game Car System Demo Just like as Forza Horizon 4 Game... </br>
 
 希望加入二维地图导航系统，手刹，脚刹，方向盘，视图控制系统</br>
 希望加入特斯拉车型tesla model </br>
+希望加入各种跑车车型</br>
 
-版本 0.0.1 </br>
+版本 ：无</br>
+未来版本1.0，2.0......</br>
 
 改天上传 </br>
 
