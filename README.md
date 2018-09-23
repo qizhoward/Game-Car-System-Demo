@@ -9,10 +9,11 @@ Computer Game Car System Demo Just like as Forza Horizon 4 Game... </br>
 
 # License 证书 密钥 
 
+future key ...
+未来加密钥，密码库，注册相关...
 
 
-
-# other 其他事项
+# Other 其他事项
 
 改天上传 </br>
 
