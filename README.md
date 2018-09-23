@@ -13,6 +13,7 @@ future key ...     </br>
 
 # Other 其他事项
 
+注意：目前有两个文件太大了，没上传成功
 
 # Future 未来
 
