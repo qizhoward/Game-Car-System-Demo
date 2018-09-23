@@ -14,6 +14,7 @@ Computer Game Car System Demo Just like as Forza Horizon 4 Game... </br>
 
 注意：目前有两个文件太大了，没上传成功，可能以后添加URL链接提供下载  </br>
 两个文件百度云盘下载链接：正在上传中...                          </br>
+下载成功后放入bundled文件夹内即可...目前只有64位的包...</br>
 
 # Future 未来
 
