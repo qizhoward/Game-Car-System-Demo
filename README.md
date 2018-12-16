@@ -2,35 +2,25 @@
 
 # About 关于
 
--------------------------
->模拟游戏</br>
->Simulation game</br>
--------------------------
 
+模拟游戏</br>
+Simulation game</br>
 
-about health game   </br>
-健康游戏忠告          </br>
-1.Boycott bad games    ex.18 prohibit</br>
-1.抵制不良游戏</br>
-2.Self protection</br>
-2.注意自我保护</br>
-3.Useful game</br>
-3.适度游戏益脑</br>
-4.Schedule time</br>
-4.合理安排时间</br>
-5.          </br>
-5.          </br>
-6.          </br>
-6.          </br>
-7.          </br>
-7.          </br>
-8.          </br>
-8.          </br>
-9.          </br>
-9.          </br>
-10.         </br>
-10.         </br>
+-----------------------------------------------------------------------------------------------
+>about health game   </br>
+>健康游戏忠告          </br>
+>1.Boycott bad games    ex.18 prohibit     　6.      </br> 
+>1.抵制不良游戏                               6.      </br> 
+>2.Self protection                           7.      </br> 
+>2.注意自我保护                               7.      </br> 
+>3.Useful game                               8.      </br> 
+>3.适度游戏益脑                               8.       </br> 
+>4.Schedule time                             9.      </br> 
+>4.合理安排时间                               9.       </br> 
+>5.          </br>                          10.       </br> 
+>5.          </br>                          10.       </br> 
 
+----------------------------------------------------------------------------------------------------
 
 Computer Game Car System Demo Just like as Forza Horizon 4 Game... </br>
 自己做的电脑驾驶游戏，测试，自己做的像极限竞速4的游戏,源码和下载包。 </br>
