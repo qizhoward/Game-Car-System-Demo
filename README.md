@@ -6,6 +6,8 @@
 模拟游戏</br>
 Simulation game</br>
 
+This autodesk scaleform software should be give chinese father for every family for all the world family for every children...</br>
+
 -----------------------------------------------------------------------------------------------
 >about health game   </br>
 >健康游戏忠告          </br>
