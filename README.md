@@ -7,8 +7,12 @@
 Simulation game</br>
 
 This autodesk scaleform software should be give chinese father for every family for all the world family for every children...</br>
+这款游戏软件,应该属于每个家庭,给中国的家长，给所有的儿童...
+软件应该属于台式机上的，但是好像并不是每个家庭都能支付的起昂贵的运营费，应该属于工作站类的台式电脑,更像是城市中心的服务器装置.
+注重于生产制造的一款软件，更像是学校的一小块黑板.
 
 -----------------------------------------------------------------------------------------------
+模拟游戏：
 >about health game   </br>
 >健康游戏忠告          </br>
 >1.Boycott bad games Ex.18 prohibit                          6.Refuse pirated games</br> 
@@ -58,7 +62,7 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 
 future key ...     </br>
 未来加密钥，密码库，注册相关...</br>
-
+家长控制系统 ... </br>
 
 ----------------------------------------------------------------------------------------------------
 
@@ -66,6 +70,7 @@ future key ...     </br>
 end edit time: 2018.10.12 12:18</br>
                2018.11.10 20:17</br>
                2018.12.16 16:46</br>
+               2019.03.20 13:52</br>
 yu peng </br>
 余 鹏 </br>
 
