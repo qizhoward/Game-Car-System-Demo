@@ -61,7 +61,7 @@ Baidu Translate:(百度翻译):　                                              
 Note: At present, two files are too big to upload successfully.                       　   </br>
 You may add a URL link to download them later.　　　　　　　　　　　　　　　　　　　　　　　   </br>
 Two files Baidu cloud disk download link:　　　　　　　　　　　　　　　　　　　　　　　　　　   </br>
-The first file link: https://pan.baidu.com/s/1ZFHGWbv0ys-4nTlJbBA9A 　　password: nfre　    </br>
+The first file link: https://pan.baidu.com/s/1ZFHhGWbv0ys-4nTlJbBA9A 　　password: nfre　    </br>
 The second file link: https://pan.baidu.com/s/1SVF9WyoooSITfKvWOC1coQ 　　password: 4p1a    </br>
 After the download is successful, you can put it in the bundled folder.　　　　　　　　　    </br>
 Currently only 64-bit packages...　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　    </br>
