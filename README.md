@@ -82,6 +82,7 @@ Currently only 64-bit packages...　　　　　　　　　　　　　　　�
 希望加入F35-B加入B2两种飞机</br>
 希望加入天气系统</br>
 希望加入飞机玩具</br>
+希望加入鹰眼系统</br>
 
 
 `注：百度翻译　Tranform　为weí 　变换`　　　</br>
@@ -95,7 +96,7 @@ Hope to join ABS and other emergency braking systems and automobile balance syst
 Hope to join F35-B and B2 aircraft                                                                                </br>
 Hope to join the weather system                                                                                   </br>
 Hope to join the aircraft toys                                                                                    </br>
-
+Hope to join Eagle Eye System                                                                                     </br>
 
 
 版本 ：无                      </br>
