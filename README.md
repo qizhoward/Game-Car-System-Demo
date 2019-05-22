@@ -51,6 +51,19 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 下载成功后放入bundled文件夹内即可...     </br>
 目前只有64位的包...</br>
 
+
+
+百度翻译：Baidu Translate:　　　</br>
+Note: At present, two files are too big to upload successfully.                       　</br>
+You may add a URL link to download them later.　　　　　　　　　　　　　　　　　　　　　　　</br>            
+Two files Baidu cloud disk download link:　　　　　　　　　　　　　　　　　　　　　　　　　　</br>            
+The first file link: https://pan.baidu.com/s/1ZFHGWbv0ys-4nTlJbBA9A password: nfre　　　</br>           
+The second file link: https://pan.baidu.com/s/1SVF9WyoooSITfKvWOC1coQ password: 4p1a　　</br>           
+After the download is successful, you can put it in the bundled folder.　　　　　　　　　</br>           
+Currently only 64-bit packages...　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</br>
+
+
+
 # Future 未来
 
 希望加入二维地图导航系统，手刹，脚刹，方向盘，视图控制系统</br>
