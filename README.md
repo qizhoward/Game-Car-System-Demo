@@ -35,7 +35,7 @@ This autodesk scaleform software should be give chinese father for every family 
 
 Computer Game Car System Demo Just Like As Forza Horizon 4 Game... </br>
 自己做的电脑驾驶游戏，测试，自己做的像极限竞速4的游戏,源码和下载包。 </br>
-`Baidu Translate:(百度翻译):                                        </br>
+`Baidu Translate:(百度翻译):                                       
 Map packages are from my home town and may be added to other city map packages in the future.`</br>
 地图包是自己家乡的，未来可能加入其他城市地图包</br>
 My computer keyboard bad and i don't know how to import maya modle to stingray make Ani? game...</br>
