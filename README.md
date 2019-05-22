@@ -1,7 +1,7 @@
 # GameCarSystemDemo
-游戏的驾驶，以及游戏的无人驾驶系统(不包含夜间巡航模式)
-Baidu Translate:(百度翻译):　
-The driving of the game and the unmanned driving system of the game (excluding night cruise mode)
+游戏的驾驶，以及游戏的无人驾驶系统(不包含夜间巡航模式)                                                  </br>
+Baidu Translate:(百度翻译):　                                                                        </br>
+The driving of the game and the unmanned driving system of the game (excluding night cruise mode)   </br>
 
 # About 关于
 
