@@ -80,7 +80,7 @@ Currently only 64-bit packages...　　　　　　　　　　　　　　　�
 希望加入各种跑车车型</br>
 希望加入ABS等紧急刹车系统,加入汽车平衡系统</br>
 希望加入F35-B加入B2两种飞机</br>
-
+希望加入天气系统</br>
 希望加入飞机玩具</br>
 
 
@@ -93,7 +93,7 @@ Hope to join Tesla model                                                        
 Hope to join all kinds of sports car models                                                                       </br>
 Hope to join ABS and other emergency braking systems and automobile balance system.                               </br>
 Hope to join F35-B and B2 aircraft                                                                                </br>
-
+Hope to join the weather system                                                                                   </br>
 Hope to join the aircraft toys                                                                                    </br>
 
 
