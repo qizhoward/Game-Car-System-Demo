@@ -61,6 +61,27 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 
 希望加入飞机玩具</br>
 
+
+`百度翻译　Tranform　为weí 　变换`　
+`百度翻译　翻译　为weí 　Translate`　
+
+百度翻译：Baidu Translate:　　　
+We hope to add two-dimensional map navigation system, hand brake, foot brake, steering wheel, view control system.</br>
+Hope to join Tesla model</br>
+Hope to join all kinds of sports car models</br>
+Hope to join ABS and other emergency braking systems and automobile balance system.</br>
+Hope to join F35-B and B2 aircraft</br>
+
+Hope to join the aircraft toys</br>
+
+
+
+
+
+
+
+
+
 版本 ：无</br>
 未来版本1.0，2.0......</br>
 
