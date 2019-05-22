@@ -47,7 +47,8 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 注意：目前有两个文件太大了，没上传成功，可能以后添加URL链接提供下载  </br>
 两个文件百度云盘下载链接:                                                           </br>
 第一个文件链接：https://pan.baidu.com/s/1ZFHhGWbv0ys-4nTlJbBA9A 密码：nfre          </br>
-第二个文件链接：https://pan.baidu.com/s/1SVF9WyoooSITfKvWOC1coQ 密码：4p1a          </br>                                                                                            下载成功后放入bundled文件夹内即可...</br>
+第二个文件链接：https://pan.baidu.com/s/1SVF9WyoooSITfKvWOC1coQ 密码：4p1a          </br>    
+下载成功后放入bundled文件夹内即可...     </br>
 目前只有64位的包...</br>
 
 # Future 未来
@@ -67,6 +68,12 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 future key ...     </br>
 未来加密钥，密码库，注册相关...</br>
 家长控制系统 ... </br>
+
+future key please go to police or government Obtain </br>
+未来钥匙请去狗逼的警局,政府,获取                       </br>
+
+获取,百度翻译为Obtain                                </br>
+所要,百度翻译为Must                                  </br>
 
 ----------------------------------------------------------------------------------------------------
 
