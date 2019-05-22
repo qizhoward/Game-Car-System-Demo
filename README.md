@@ -62,8 +62,8 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 希望加入飞机玩具</br>
 
 
-`百度翻译　Tranform　为weí 　变换`　
-`百度翻译　翻译　为weí 　Translate`　
+`注：百度翻译　Tranform　为weí 　变换`　　　</br>
+`注：百度翻译　翻译　为weí 　Translate`　　　</br>
 
 百度翻译：Baidu Translate:　　　
 We hope to add two-dimensional map navigation system, hand brake, foot brake, steering wheel, view control system.</br>
@@ -73,13 +73,6 @@ Hope to join ABS and other emergency braking systems and automobile balance syst
 Hope to join F35-B and B2 aircraft</br>
 
 Hope to join the aircraft toys</br>
-
-
-
-
-
-
-
 
 
 版本 ：无</br>
@@ -94,11 +87,11 @@ future key ...     </br>
 未来加密钥，密码库，注册相关...</br>
 家长控制系统 ... </br>
 
-`future key please go to police or government Obtain` </br>
-`未来钥匙请去狗逼的警局,政府,获取`                       </br>
+`注：future key please go to police or government Obtain` </br>
+`注：未来钥匙请去狗逼的警局,政府,获取`                       </br>
 
-`获取,百度翻译为Obtain`                                </br>
-`所要,百度翻译为Must`                                  </br>
+`注：获取,百度翻译为Obtain`                                </br>
+`注：所要,百度翻译为Must`                                  </br>
 
 ----------------------------------------------------------------------------------------------------
 
