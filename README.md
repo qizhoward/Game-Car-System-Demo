@@ -39,8 +39,12 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 
 ![image](https://github.com/qizhoward/GameCarSystemDemo/blob/master/make.PNG)
 
-完整包百度云盘下载链接：                                           </br> 
-链接：https://pan.baidu.com/s/1XxE577nArZ0-8KT9fqg41g 密码：3xnx </br>
+完整包百度云盘下载链接：                                                           </br> 
+链接：https://pan.baidu.com/s/1XxE577nArZ0-8KT9fqg41g 密码：3xnx                  </br>
+
+Baidu Translate:(百度翻译):　　        　                                        　</br>
+Complete package Baidu cloud disk download link:                                  </br>
+Link: https://pan.baidu.com/s/1XxE577nArZ0-8KT9fqg41g password: 3xnx            　</br>
 
 # Other 其他事项
 
@@ -53,7 +57,7 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 
 
 
-百度翻译：Baidu Translate:　　　</br>
+Baidu Translate:(百度翻译):　                                                              </br>
 Note: At present, two files are too big to upload successfully.                       　   </br>
 You may add a URL link to download them later.　　　　　　　　　　　　　　　　　　　　　　　   </br>
 Two files Baidu cloud disk download link:　　　　　　　　　　　　　　　　　　　　　　　　　　   </br>
@@ -78,27 +82,36 @@ Currently only 64-bit packages...　　　　　　　　　　　　　　　�
 `注：百度翻译　Tranform　为weí 　变换`　　　</br>
 `注：百度翻译　翻译　为weí 　Translate`　　　</br>
 
-百度翻译：Baidu Translate:　　　</br>
+Baidu Translate:(百度翻译):　　　                                                                                  </br>
 We hope to add two-dimensional map navigation system, hand brake, foot brake, steering wheel, view control system.</br>
-Hope to join Tesla model</br>
-Hope to join all kinds of sports car models</br>
-Hope to join ABS and other emergency braking systems and automobile balance system.</br>
-Hope to join F35-B and B2 aircraft</br>
+Hope to join Tesla model                                                                                          </br>
+Hope to join all kinds of sports car models                                                                       </br>
+Hope to join ABS and other emergency braking systems and automobile balance system.                               </br>
+Hope to join F35-B and B2 aircraft                                                                                </br>
 
-Hope to join the aircraft toys</br>
+Hope to join the aircraft toys                                                                                    </br>
 
 
-版本 ：无</br>
-未来版本1.0，2.0......</br>
 
-改天上传 </br>
+版本 ：无                      </br>
+未来版本1.0，2.0......         </br>
+
+改天上传                       </br>
+
+
+Baidu Translate:(百度翻译):　  </br>
+Version: No                   </br>            
+Future versions 1.0, 2.0...   </br>
+
+Transfer to Heaven            </br>
+
 
 
 # License 证书 密钥 
 
-future key ...     </br>
-未来加密钥，密码库，注册相关...</br>
-家长控制系统 ... </br>
+future key ...                                            </br>
+未来加密钥，密码库，注册相关...                             </br>
+家长控制系统 ...                                          </br>
 
 `注：future key please go to police or government Obtain` </br>
 `注：未来钥匙请去狗逼的警局,政府,获取`                       </br>
