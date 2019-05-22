@@ -19,8 +19,8 @@ This autodesk scaleform software should be give chinese father for every family 
 
 -----------------------------------------------------------------------------------------------
 模拟游戏：
->about health game   </br>
->健康游戏忠告          </br>
+>about health game                  </br>
+>健康游戏忠告                       </br>
 >1.Boycott bad games Ex.18 prohibit                          6.Refuse pirated games</br> 
 >1.抵制不良游戏                                               6.拒绝盗版游戏</br> 
 >2.Self protection                                           7.Beware of being deceived</br> 
