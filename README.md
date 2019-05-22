@@ -65,7 +65,7 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 `注：百度翻译　Tranform　为weí 　变换`　　　</br>
 `注：百度翻译　翻译　为weí 　Translate`　　　</br>
 
-百度翻译：Baidu Translate:　　　
+百度翻译：Baidu Translate:　　　</br>
 We hope to add two-dimensional map navigation system, hand brake, foot brake, steering wheel, view control system.</br>
 Hope to join Tesla model</br>
 Hope to join all kinds of sports car models</br>
