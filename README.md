@@ -56,6 +56,10 @@ My computer keyboard bad and i don't know how to import maya modle to stingray m
 希望加入二维地图导航系统，手刹，脚刹，方向盘，视图控制系统</br>
 希望加入特斯拉车型tesla model </br>
 希望加入各种跑车车型</br>
+希望加入ABS等紧急刹车系统,加入汽车平衡系统</br>
+希望加入F35-B加入B2两种飞机</br>
+
+希望加入飞机玩具</br>
 
 版本 ：无</br>
 未来版本1.0，2.0......</br>
