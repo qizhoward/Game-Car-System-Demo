@@ -69,11 +69,11 @@ future key ...     </br>
 未来加密钥，密码库，注册相关...</br>
 家长控制系统 ... </br>
 
-future key please go to police or government Obtain </br>
-未来钥匙请去狗逼的警局,政府,获取                       </br>
+`future key please go to police or government Obtain` </br>
+`未来钥匙请去狗逼的警局,政府,获取`                       </br>
 
-获取,百度翻译为Obtain                                </br>
-所要,百度翻译为Must                                  </br>
+`获取,百度翻译为Obtain`                                </br>
+`所要,百度翻译为Must`                                  </br>
 
 ----------------------------------------------------------------------------------------------------
 
