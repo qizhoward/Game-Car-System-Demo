@@ -29,8 +29,8 @@ This autodesk scaleform software should be give chinese father for every family 
 >3.适度游戏益脑                                               8.沉迷游戏伤身</br> 
 >4.Schedule time                                             9.Enjoy a healthy life</br> 
 >4.合理安排时间                                               9.享受健康生活</br> 
->5.                                                         10.           </br> 
->5.                                                         10.           </br> 
+>5.Unsuited Diseases of photosensitive patients             10.           </br> 
+>5.不适合光敏患者疾病                                         10.           </br> 
 ----------------------------------------------------------------------------------------------------
 
 Computer Game Car System Demo Just Like As Forza Horizon 4 Game... </br>
