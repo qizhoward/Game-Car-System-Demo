@@ -93,7 +93,7 @@ We hope to add two-dimensional map navigation system, hand brake, foot brake, st
 Hope to join Tesla model                                                                                          </br>
 Hope to join all kinds of sports car models                                                                       </br>
 Hope to join ABS and other emergency braking systems and automobile balance system.                               </br>
-Hope to join F35-B and B2 aircraft                                                                                </br>
+Hope to join F35-D and B2 aircraft                                                                                </br>
 Hope to join the weather system                                                                                   </br>
 Hope to join the aircraft toys                                                                                    </br>
 Hope to join Eagle Eye System                                                                                     </br>
