@@ -147,21 +147,13 @@ Memory:内存:
                                                                      `4GB`                        </br>
 
 Hard disk:硬盘:    
-
-                                                                  不小于游戏大小就行                </br>
-
+                                                              `不小于游戏大小就行`                </br>
 CPU:中央处理器:                                              
-
-                                                            E3 ... Intel(R)Core(TM)i3...         </br>
-
+                                                          `E3 ... Intel(R)Core(TM)i3...`         </br>
 Graphics card:显卡:                                          
- 
-                                                                暂时N卡 显存1024MB               </br>
-                                                                
-Graphics card Driver program version :显卡的驱动程序版本:          
-                                                                   
-                                                                   future write..　　　　　       </br> 
-
+                                                              `暂时N卡 显存1024MB`               </br>
+Graphics card Driver program version :显卡的驱动程序版本: 
+                                                                `future write..`　　　　　        </br> 
 最低配置：future write                                                                             </br>
 
 
