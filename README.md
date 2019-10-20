@@ -141,7 +141,7 @@ Game required configuration
 操作系统：Windows8 Windows10 64bit 
 内存: 4GB
 硬盘:
-CPU中央处理器: E3 ... Intel括号R括号Core括号TM括号i3...
+CPU中央处理器: E3 ... Intel(R)Core(TM)i3...
 显卡: 暂时N卡 显存1024MB 
 显卡的驱动程序版本:
 
@@ -159,14 +159,14 @@ GPU:0%
 Game frame rate and game frames:游戏帧率及游戏帧数:
 
 
-1.正常范围: 24-30 fps  　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｜　　　　　　　　　24-30帧</br>
-                                                                           ｜
-2.出现卡顿及马赛克:　 game<24 fps    0-23 fps     　　　　　　　　　　　　     ｜  　　  　　　 　小于24帧</br>
-                                                                           ｜
-3.出现正常波动范围:   game>25 fps   game<60 fps   game>30 fps  game<60fps   ｜       大于24帧及大于30帧</br>       
-                    25fps<game<60fps       30fps<game<60fps                ｜            　　　 　　　</br>  
-                                                                           ｜
-4.超清电影级别及高配置电脑及特高级电脑: game>>61 fps  不封顶                   ｜          大于61帧 不封顶</br>
+    1.正常范围: 24-30 fps  　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｜　　　　　　　　　24-30帧</br>
+                                                                               ｜
+    2.出现卡顿及马赛克:　 game<24 fps    0-23 fps     　　　　　　　　　　　　     ｜  　　  　　　 　小于24帧</br>
+                                                                              ｜
+    3.出现正常波动范围:   game>25 fps   game<60 fps   game>30 fps  game<60fps   ｜       大于24帧及大于30帧</br>       
+                    25fps<game<60fps       30fps<game<60fps                   ｜            　　　 　　　</br>  
+                                                                               ｜
+    4.超清电影级别及高配置电脑及特高级电脑: game>>61 fps  不封顶                   ｜          大于61帧 不封顶</br>
 
 
 ----------------------------------------------------------------------------------------------------
