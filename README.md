@@ -141,12 +141,10 @@ Game required configuration                                                     
 Recommended configuration : 推荐配置：                                                            </br>
 
 System:操作系统:
+                                                            `Windows8 Windows10 64bit`           </br>
 
-                                                              Windows8 Windows10 64bit            </br>
-
-Memory:内存:            
-
-                                                                        4GB                        </br>
+Memory:内存:
+                                                                     `4GB`                        </br>
 
 Hard disk:硬盘:    
 
