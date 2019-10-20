@@ -148,7 +148,9 @@ CPU:中央处理器:                                           `E3 ... Intel(R)C
 Graphics card:显卡:                                            `暂时N卡 显存1024MB`               </br>
 Graphics card Driver program version :显卡的驱动程序版本:         `future write..`　　　　　        </br> 
                                                                                                  </br>
-最低配置：future write                                                                             </br>
+Minimum allocation : 最低配置：                                                                  </br>
+
+future write                                                                                     </br>
 
 
 
