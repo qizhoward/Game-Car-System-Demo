@@ -130,6 +130,45 @@ future key ...                                            </br>
 `注：找“刘铁蛋”　找刘学军`                               　 </br>
 
 
+
+
+# System needs 系统需要
+
+Game required configuration 
+游戏所需配置
+
+推荐配置：
+操作系统：Windows8 Windows10 64bit 
+内存: 4GB
+硬盘:
+CPU中央处理器: E3 ... Intel括号R括号Core括号TM括号i3...
+显卡: 暂时N卡 显存1024MB 
+显卡的驱动程序版本:
+
+最低配置：future
+
+
+
+# Graphics card 显卡 display card 显示显卡
+
+GPU data        GPU数据
+
+GPU:100%
+GPU:0%
+
+Game frame rate and game frames:游戏帧率及游戏帧数:
+
+
+1.正常范围: 24-30 fps  　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｜　　　　　　　　　24-30帧</br>
+                                                                           ｜
+2.出现卡顿及马赛克:　 game<24 fps    0-23 fps     　　　　　　　　　　　　     ｜  　　  　　　 　小于24帧</br>
+                                                                           ｜
+3.出现正常波动范围:   game>25 fps   game<60 fps   game>30 fps  game<60fps   ｜       大于24帧及大于30帧</br>       
+                    25fps<game<60fps       30fps<game<60fps                ｜            　　　 　　　</br>  
+                                                                           ｜
+4.超清电影级别及高配置电脑及特高级电脑: game>>61 fps  不封顶                   ｜          大于61帧 不封顶</br>
+
+
 ----------------------------------------------------------------------------------------------------
 
 2018.09.23 </br>
@@ -140,6 +179,7 @@ end edit time:
                2019.03.20 13:56</br>
                2019.05.22 10:46 AM</br>
                2019.05.22 12:22 AM</br>
+               2019.10.20 11:26 AM</br>
 yu peng </br>
 余 鹏 </br>
 
