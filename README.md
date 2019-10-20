@@ -139,15 +139,15 @@ Game required configuration                                                     
 
 
 Recommended configuration : 推荐配置：                                                            </br>
-
-System:操作系统:
+                                                                                                 </br> 
+System:操作系统:                                                                                  </br>
                                                             `Windows8 Windows10 64bit`           </br>
 Memory:内存:                                                         `4GB`                        </br>
 Hard disk:硬盘:                                               `不小于游戏大小就行`                </br>
 CPU:中央处理器:                                           `E3 ... Intel(R)Core(TM)i3...`         </br>
 Graphics card:显卡:                                            `暂时N卡 显存1024MB`               </br>
-Graphics card Driver program version :显卡的驱动程序版本: 
-                                                                `future write..`　　　　　        </br> 
+Graphics card Driver program version :显卡的驱动程序版本:         `future write..`　　　　　        </br> 
+                                                                                                 </br>
 最低配置：future write                                                                             </br>
 
 
@@ -170,8 +170,8 @@ Game frame rate and game frames:游戏帧率及游戏帧数:   </br>
     1.正常范围: 24-30 fps  　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｜　　　　　　　　　24-30帧
                                                                                ｜
     2.出现卡顿及马赛克:　 game<24 fps    0-23 fps     　　　　　　　　　　　　     ｜  　　  　　　 　小于24帧
-                                                                              ｜
-    3.出现正常波动范围:   game>25 fps   game<60 fps   game>30 fps  game<60fps   ｜       大于24帧及大于30帧      
+                                                                               ｜
+    3.出现正常波动范围:   game>25 fps   game<60 fps   game>30 fps  game<60fps    ｜       大于24帧及大于30帧      
                          25fps<game<60fps       30fps<game<60fps               ｜            　　　 　　　
                                                                                ｜
     4.超清电影级别及高配置电脑及特高级电脑: game>>61 fps  不封顶                   ｜          大于61帧 不封顶
