@@ -196,3 +196,16 @@ yu peng </br>
 进展：
 　制作Ui的时候遇到问题，关于动画显示的问题，ui帧速率，开始按钮脚本lua语言编程问题，模型问题
  好多问题，模型的重力点，模型的骨骼动画，模型的骨骼重力点，好多问题
+
+
+-----------------------------------------------------------------------------------------------
+
+ Because Chinese prince, Queen Mother, Xi Jinping, Peng Liyuan, 
+ I choose to keep the algorithm secret, and the algorithm is kept secret forever.
+   
+ 因为中国皇子,皇妈,习近平,彭丽媛,我选择将算法保密,程序算法永久保密.    
+
+
+
+
+
